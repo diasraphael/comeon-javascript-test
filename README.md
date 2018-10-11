@@ -138,6 +138,8 @@ Pull requests welcome, and maybe [we have a job for you](http://jobs.comeon.com/
 Please, send us your code in a compressed file in an email.
 
 
+## REACT VERSION OF this assignment
+
 I have created with the react version of this assignment
 
 ## Steps to execute:
